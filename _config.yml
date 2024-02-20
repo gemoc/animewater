@@ -16,7 +16,7 @@
 title: Anime-Water, An IRIS-E Project
 email: anime-water@inria.fr
 description: Anime-Water, An IRIS-E Project
-baseurl: "/ale" # the subpath of your site, e.g. /blog
+baseurl: "/animewater" # the subpath of your site, e.g. /blog
 url: "https://gemoc.github.io/animewater" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gemocinitiative
 github_username:  gemoc
