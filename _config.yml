@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: IRIS-E ANIME-WATER
 email: anime-water@inria.fr
-description: ANIME-WATER: Agile NumerIcal ModEls for WAter TErritorial pRrospective
+description: Agile NumerIcal ModEls for WAter TErritorial pRrospective (ANIME-WATER)
 baseurl: "/animewater" # the subpath of your site, e.g. /blog
 url: "https://gemoc.github.io/animewater" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gemocinitiative
