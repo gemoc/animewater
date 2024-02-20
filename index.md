@@ -3,9 +3,10 @@ layout: default
 order : 0
 ---
 
-ANIME-WATER (Agile NumerIcal ModEls for WAter TErritorial pRrospective) is an [IRIS-E](https://iris-e.univ-rennes.fr/) pluri-disciplinary project from the [University of Rennes](https://univ-rennes.fr/), cross-fertilizing Hydrogeophysics, Hydrology, Sociology, Computer Science and Ecology. The project involves researchers from [Géosciences Rennes](), [IRISA]() and [ESO Rennes]().
+ANIME-WATER (Agile NumerIcal ModEls for WAter TErritorial pRrospective) is an [IRIS-E](https://iris-e.univ-rennes.fr/) pluri-disciplinary project from the [University of Rennes](https://univ-rennes.fr/), cross-fertilizing Hydrogeophysics, Hydrology, Sociology, Computer Science and Ecology. The project involves researchers from [Géosciences Rennes](https://geosciences.univ-rennes.fr/), [IRISA](https://www.irisa.fr/) and [ESO Rennes](https://www.univ-rennes2.fr/structure/eso-rennes).
 
 <center>
-<img src="{{ site.baseurl }}/img/inria.png" alt="Inria" style="width: 200px;"/>
-<img src="{{ site.baseurl }}/img/cwi.png" alt="CWI" style="width: 200px;"/>
+<img src="{{ site.baseurl }}/img/geosciences.png" alt="Geosciences" style="width: 200px;"/>
+<img src="{{ site.baseurl }}/img/irisa.png" alt="IRISA" style="width: 200px;"/>
+<img src="{{ site.baseurl }}/img/eso.jpeg" alt="ESO" style="width: 200px;"/>
 </center>
