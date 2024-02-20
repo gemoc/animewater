@@ -8,5 +8,6 @@ ANIME-WATER (Agile NumerIcal ModEls for WAter TErritorial pRrospective) is an [I
 <center>
 <img src="{{ site.baseurl }}/img/geosciences.png" alt="Geosciences" style="width: 200px;"/> &nbsp;
 <img src="{{ site.baseurl }}/img/irisa.png" alt="IRISA" style="width: 200px;"/> &nbsp;
-<img src="{{ site.baseurl }}/img/eso.jpeg" alt="ESO" style="width: 100px;"/>
+<img src="{{ site.baseurl }}/img/eso.jpeg" alt="ESO" style="width: 80px;"/><br/><br/>
+<img src="{{ site.baseurl }}/img/irise.png" alt="IRIS-E" style="width: 80px;"/>
 </center>
